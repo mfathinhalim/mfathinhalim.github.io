@@ -370,8 +370,8 @@ function Header() {
               />
               <ContactLink
                 icon="whatsapp"
-                label="+62 822 8162 7963"
-                url="https://wa.me/+6282281627963"
+                label="+62 851 8199 7908"
+                url="https://wa.me/+6285181997908"
               />
               <ContactLink
                 icon="envelope"
